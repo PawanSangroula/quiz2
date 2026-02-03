@@ -11,7 +11,7 @@ public class MotivationFeature {
               + "------------------------------\n"
              + "Student Name: Mohammad Tarik\n"
              + "What motivates you\n"
-             + " Success\n"
+             + " My family motivates me \n"
              + "------------------------------\n";
     }
 }
